@@ -161,7 +161,6 @@ database.initialize(config.db_url, err => {
 			}
 		});
 
-		// Message deleted
 		bot.on("messageDelete", msg => {
 			if(bot.isReady) {
 				eventHandlers.messageDelete(bot, db, config, winston, msg).catch(err => {
