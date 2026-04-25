@@ -1,11 +1,8 @@
 {
-  "name": "GAwesomeBot",
-  "description": "(still) The best Discord bot!",
-  "version": "4.0.1",
-  "author": "Gilbert Gobbels",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GilbertGobbels/GAwesomeBot.git"
+  "name": "eyebot",
+  "description": "The best-ish Discord Bot!",
+  "version": "1.0",
+  "author": "Eyemane",
   },
   "license": "GPL v2",
   "dependencies": {
