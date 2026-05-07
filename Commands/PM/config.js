@@ -8,7 +8,7 @@ module.exports = (bot, db, config, winston, userDocument, msg, suffix) => {
 					author: {
 						name: bot.user.username,
 						icon_url: bot.user.avatarURL,
-						url: "https://github.com/GilbertGobbels/GAwesomeBot"
+						url: "https://aymane.zya.me"
 					},
 					title: "Here's the link for the Maintainer Console:",
 					description: `${config.hosting_url}dashboard/overview?svrid=maintainer`,
@@ -41,7 +41,7 @@ module.exports = (bot, db, config, winston, userDocument, msg, suffix) => {
 					author: {
 						name: bot.user.username,
 						icon_url: bot.user.avatarURL,
-						url: "https://github.com/GilbertGobbels/GAwesomeBot"
+						url: "https://aymane.zya.me"
 					},
 					color: 0xFF0000,
 					title: "Error",
@@ -60,7 +60,7 @@ module.exports = (bot, db, config, winston, userDocument, msg, suffix) => {
 								author: {
 									name: bot.user.username,
 									icon_url: bot.user.avatarURL,
-									url: "https://github.com/GilbertGobbels/GAwesomeBot"
+									url: "https://aymane.zya.me"
 								},
 								color: 0x00FF00,
 								title: "Here's the link to the requested Admin Panel",
@@ -73,7 +73,7 @@ module.exports = (bot, db, config, winston, userDocument, msg, suffix) => {
 								author: {
 									name: bot.user.username,
 									icon_url: bot.user.avatarURL,
-									url: "https://github.com/GilbertGobbels/GAwesomeBot"
+									url: "https://aymane.zya.me"
 								},
 								color: 0xFF0000,
 								title: "Error",
@@ -87,7 +87,7 @@ module.exports = (bot, db, config, winston, userDocument, msg, suffix) => {
 							author: {
 									name: bot.user.username,
 									icon_url: bot.user.avatarURL,
-									url: "https://github.com/GilbertGobbels/GAwesomeBot"
+									url: "https://aymane.zya.me"
 							},
 							color: 0x9ECDF2,
 							title: "Error",
