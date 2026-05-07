@@ -3,7 +3,6 @@
   "description": "The best-ish Discord Bot!",
   "version": "1.0",
   "author": "Eyemane",
-  },
   "license": "GPL v2",
   "dependencies": {
     "bluebird": "*",
