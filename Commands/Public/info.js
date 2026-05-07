@@ -64,7 +64,7 @@ module.exports = (bot, db, config, winston, userDocument, serverDocument, channe
             author: {
                 name: bot.user.username,
                 icon_url: bot.user.avatarURL,
-                url: "https://github.com/GilbertGobbels/GAwesomeBot"
+                url: "https://aymane.zya.me"
             },
             color: 0x00FF00,
 			fields: embed_fields,
